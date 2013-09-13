@@ -19,7 +19,7 @@
     "express": "~2.5.11",
     "connect": "~1.9.2",
     "debug": "~0.7.2",
-    "connect-metric": "~0.2.0",
+    "connect-metric": "git+https://github.com/jamischarles/connect-metric.git#1.0.0",
     "empty-favicon": "~0.1.0"
   },
   "devDependencies": {
